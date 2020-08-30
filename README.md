@@ -21,7 +21,13 @@ This repository contains python tutorials and python projects completed by me.
 
    - [Python if...else]
    
-   - 
+   - [Python for Loop]
+   
+   - [Python while Loop]
+   
+   - [Python break and continue]
+   
+   - [Python Pass]
 
 ### **4.	Python Functions**
 
@@ -37,11 +43,19 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Python Package]
    
-### **5.	Python Files**
+### **5.	Python Miscellaneous Concepts**
 
-### **6.	Python OOP Programming**
+   - [Lambda Functions]
+   
+   - [List Comprehension]
+   
+   - [Dict Comprehension]
+   
+### **6.	Python Files**
 
-### **7.	Python Advanced Topics**
+### **7.	Python OOP Programming**
 
-### **8.	Python Date and Time**
+### **8.	Python Advanced Topics**
+
+### **9.	Python Date and Time**
 
