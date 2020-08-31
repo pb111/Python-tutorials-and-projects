@@ -13,7 +13,7 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Python String]
    
-   - [Python Set]
+   - [Python Set](https://github.com/pb111/Python/blob/master/Python_Sets.ipynb)
    
    - [Python Dictionary]
    
