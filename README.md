@@ -15,7 +15,7 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Python Sets](https://github.com/pb111/Python/blob/master/Python_Sets.ipynb)
    
-   - [Python Dictionaries]
+   - [Python Dictionaries](https://github.com/pb111/Python/blob/master/Python_Dictionaries.ipynb)
    
 ### **3.	Python Flow Control**
 
