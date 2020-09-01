@@ -11,7 +11,7 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Python Tuples](https://github.com/pb111/Python/blob/master/Python_Tuples.ipynb)
    
-   - [Python String]
+   - [Python Strings](https://github.com/pb111/Python/blob/master/Python_Strings.ipynb)
    
    - [Python Sets](https://github.com/pb111/Python/blob/master/Python_Sets.ipynb)
    
