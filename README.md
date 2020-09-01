@@ -43,7 +43,7 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Python Package]
    
-### **5.	Python Miscellaneous Concepts**
+### **5.	Python Miscellaneous Functions**
 
    - [Lambda Functions]
    
