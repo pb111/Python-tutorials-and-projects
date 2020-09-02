@@ -21,7 +21,7 @@ This repository contains python tutorials and python projects completed by me.
    
 ### **3.	Python Flow Control**
 
-   - [Python if...else](https://github.com/pb111/Python/blob/master/Python_If_Else.ipynb)
+   - [Python If...Else](https://github.com/pb111/Python/blob/master/Python_If_Else.ipynb)
    
    - [Python for Loop]
    
