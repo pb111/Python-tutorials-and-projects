@@ -25,7 +25,7 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Python For Loops](https://github.com/pb111/Python/blob/master/Python_For_Loops.ipynb)
    
-   - [Python While Loop]
+   - [Python While Loops](https://github.com/pb111/Python/blob/master/Python_While_Loops.ipynb)
    
    - [Python Break and Continue]
    
