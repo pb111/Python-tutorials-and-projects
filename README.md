@@ -29,7 +29,7 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Python Break and Continue](https://github.com/pb111/Python/blob/master/Python_break_and_continue.ipynb)
    
-   - [Python Pass]
+   - [Python pass Statement](https://github.com/pb111/Python/blob/master/Python_pass_statement.ipynb)
 
 ### **4.	Python Functions**
 
