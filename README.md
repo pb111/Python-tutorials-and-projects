@@ -23,7 +23,7 @@ This repository contains python tutorials and python projects completed by me.
 
    - [Python If...Else](https://github.com/pb111/Python/blob/master/Python_If_Else.ipynb)
    
-   - [Python For Loop]
+   - [Python For Loops](https://github.com/pb111/Python/blob/master/Python_For_Loops.ipynb)
    
    - [Python While Loop]
    
