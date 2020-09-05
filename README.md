@@ -23,11 +23,11 @@ This repository contains python tutorials and python projects completed by me.
 
    - [Python If...Else](https://github.com/pb111/Python/blob/master/Python_If_Else.ipynb)
    
-   - [Python for Loop]
+   - [Python For Loop]
    
-   - [Python while Loop]
+   - [Python While Loop]
    
-   - [Python break and continue]
+   - [Python Break and Continue]
    
    - [Python Pass]
 
