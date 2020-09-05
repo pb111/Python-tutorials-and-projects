@@ -6,6 +6,9 @@ This repository contains python tutorials and python projects completed by me.
 ### **1.	Python Basics**
 
    - [Introduction to Python](https://github.com/pb111/Python/blob/master/Introduction_to_Python.ipynb)
+   
+   - [Python Keywords and Identifiers](https://github.com/pb111/Python/blob/master/Python_Keywords_and_Identifiers.ipynb)
+   
    - [Python Conditions](https://github.com/pb111/Python/blob/master/Python_Conditions.ipynb)
 
 ### **2.	Python Data Structures**
