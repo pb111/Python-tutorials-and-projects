@@ -15,6 +15,8 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Python Docstrings](https://github.com/pb111/Python/blob/master/Python_Docstrings.ipynb)
    
+   - [Variables, Constants and Literals](https://github.com/pb111/Python/blob/master/Variables%2C_Constants_and_Literals.ipynb)
+   
    - [Python Conditions](https://github.com/pb111/Python/blob/master/Python_Conditions.ipynb)
 
 ### **2.	Python Data Structures**
