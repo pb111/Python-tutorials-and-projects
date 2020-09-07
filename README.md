@@ -13,6 +13,8 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Python Comments](https://github.com/pb111/Python/blob/master/Python_Comments.ipynb)
    
+   - [Python Docstrings](https://github.com/pb111/Python/blob/master/Python_Docstrings.ipynb)
+   
    - [Python Conditions](https://github.com/pb111/Python/blob/master/Python_Conditions.ipynb)
 
 ### **2.	Python Data Structures**
