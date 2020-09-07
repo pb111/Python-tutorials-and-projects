@@ -11,6 +11,8 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Python Statements and Indentation](https://github.com/pb111/Python/blob/master/Python_Statements_and_Indentation.ipynb)
    
+   - [Python Comments](https://github.com/pb111/Python/blob/master/Python_Comments.ipynb)
+   
    - [Python Conditions](https://github.com/pb111/Python/blob/master/Python_Conditions.ipynb)
 
 ### **2.	Python Data Structures**
