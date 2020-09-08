@@ -17,6 +17,8 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Variables, Constants and Literals](https://github.com/pb111/Python/blob/master/Variables%2C_Constants_and_Literals.ipynb)
    
+   - [Type Conversion and Type Casting](https://github.com/pb111/Python/blob/master/Type_Conversion_and_Type_Casting.ipynb)
+   
    - [Python Conditions](https://github.com/pb111/Python/blob/master/Python_Conditions.ipynb)
 
 ### **2.	Python Data Structures**
