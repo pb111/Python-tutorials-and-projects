@@ -55,7 +55,7 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Python Recursion](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Recursion.ipynb)
    
-   - [Global, Local and Nonlocal]
+   - [Global, Local and Nonlocal](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Global%2C_Local_and_Nonlocal_Variables.ipynb)
    
    - [Python Global Keyword]
    
