@@ -53,6 +53,8 @@ This repository contains python tutorials and python projects completed by me.
    
    - [Function Arguments](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Function_Arguments.ipynb)
    
+   - [Python Recursion](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Recursion.ipynb)
+   
    - [Global, Local and Nonlocal]
    
    - [Python Global Keyword]
