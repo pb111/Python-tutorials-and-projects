@@ -49,7 +49,7 @@ This repository contains python tutorials and python projects completed by me.
 
    - [Python Functions](https://github.com/pb111/Python/blob/master/Python_Functions.ipynb)
    
-   - [Function Argument]
+   - [Function Arguments](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Function_Arguments.ipynb)
    
    - [Global, Local and Nonlocal]
    
