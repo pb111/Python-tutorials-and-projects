@@ -2,7 +2,7 @@
 
 This repository contains python tutorials and python projects completed by me.
 
-[The Official Python Tutorial](https://docs.python.org/3/tutorial/) can be found here.
+The Official Python Tutorial can be found [here](https://docs.python.org/3/tutorial/).
 
 
 ### **1.	Python Basics**
