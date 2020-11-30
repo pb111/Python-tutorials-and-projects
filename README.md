@@ -71,7 +71,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
 
    - [Python Lambda Functions](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Lambda_Functions.ipynb)
    
-   - [List Comprehension]
+   - [Python List Comprehension](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_List_Comprehension.ipynb)
    
    - [Dict Comprehension]
    
