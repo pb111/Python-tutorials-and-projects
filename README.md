@@ -79,7 +79,17 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
 ### **6.	Python Files**
 
-### **7.	Python OOP Programming**
+### **7.	Python OOP**
+
+   - [Python Object Oriented Programming]
+   
+   - [Python Objects and Classes]
+   
+   - [Python Inheritance]
+   
+   - [Multiple Inheritance]
+   
+   - [Operator Overloading]
 
 ### **8.	Python Advanced Topics**
 
