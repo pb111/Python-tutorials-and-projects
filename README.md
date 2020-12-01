@@ -67,7 +67,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Python Packages](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Packages.ipynb)
    
-   - [`*args and **kwargs in Python`]()
+   - [`*args and **kwargs in Python`](https://github.com/pb111/Python-tutorials-and-projects/blob/master/_args_and_kwargs_in_Python.ipynb)
    
 ### **5.	Python Miscellaneous Functions**
 
