@@ -81,7 +81,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
 
 ### **7.	Python OOP**
 
-   - [Python Object Oriented Programming]
+   - [Python Object Oriented Programming](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Object_Oriented_Programming.ipynb)
    
    - [Python Objects and Classes]
    
