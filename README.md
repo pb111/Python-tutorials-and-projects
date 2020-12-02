@@ -87,7 +87,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Python Objects and Classes]
    
-   - [Python Inheritance]
+   - [Python Inheritance](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Inheritance.ipynb)
    
    - [Multiple Inheritance]
    
