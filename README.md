@@ -83,6 +83,8 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
 
    - [Python Object Oriented Programming](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Object_Oriented_Programming.ipynb)
    
+   - [Python CLasses and Objects](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Classes_and_Objects.ipynb)
+   
    - [Python Objects and Classes]
    
    - [Python Inheritance]
