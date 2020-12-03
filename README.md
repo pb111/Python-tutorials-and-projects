@@ -91,7 +91,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Multiple Inheritance]
    
-   - [Encapsulation](https://github.com/pb111/Python-tutorials-and-projects/edit/master/README.md)
+   - [Encapsulation](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Encapsulation.ipynb)
    
    - [Polymorphism]
    
