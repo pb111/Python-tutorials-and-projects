@@ -89,7 +89,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Python Inheritance](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Inheritance.ipynb)
    
-   - [Multiple Inheritance]
+   - [Multiple Inheritance](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Multiple_Inheritance.ipynb)
    
    - [Encapsulation](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Encapsulation.ipynb)
    
