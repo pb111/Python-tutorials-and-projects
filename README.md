@@ -23,6 +23,8 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Type Conversion and Type Casting](https://github.com/pb111/Python/blob/master/Type_Conversion_and_Type_Casting.ipynb)
    
+   - [Python output with print() function](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_output_with_print()_function.ipynb)
+   
    - [Python Operators](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Operators.ipynb)
    
    - [Python Conditions](https://github.com/pb111/Python/blob/master/Python_Conditions.ipynb)
