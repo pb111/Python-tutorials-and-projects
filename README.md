@@ -27,6 +27,8 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Python input with input() function](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_input_with_input()_function.ipynb)
    
+   - [Python import with import statement](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Import_Statement.ipynb)
+   
    - [Python Operators](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Operators.ipynb)
    
    - [Python Conditions](https://github.com/pb111/Python/blob/master/Python_Conditions.ipynb)
