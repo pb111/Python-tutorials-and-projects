@@ -19,6 +19,8 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Variables, Constants and Literals](https://github.com/pb111/Python/blob/master/Variables%2C_Constants_and_Literals.ipynb)
    
+   - [Python Data Types](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Data_Types.ipynb)
+   
    - [Type Conversion and Type Casting](https://github.com/pb111/Python/blob/master/Type_Conversion_and_Type_Casting.ipynb)
    
    - [Python Operators](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Operators.ipynb)
