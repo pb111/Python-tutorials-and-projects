@@ -25,6 +25,8 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Python output with print() function](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_output_with_print()_function.ipynb)
    
+   - [Python input with input() function](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_input_with_input()_function.ipynb)
+   
    - [Python Operators](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Operators.ipynb)
    
    - [Python Conditions](https://github.com/pb111/Python/blob/master/Python_Conditions.ipynb)
