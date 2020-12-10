@@ -31,6 +31,8 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Python Operators](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Operators.ipynb)
    
+   - [Python Namespace and Scope](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Namespace_and_Scope.ipynb)
+   
    - [Python Conditions](https://github.com/pb111/Python/blob/master/Python_Conditions.ipynb)
 
 ### **2.	Python Data Structures**
