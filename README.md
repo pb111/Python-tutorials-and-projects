@@ -92,6 +92,8 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
 ### **6.	Python Files**
 
    - [Python File I/O Operations](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_File_I_O_Operations.ipynb)
+   
+   - [Python Directory and Files Management](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Directory_and_Files_Management.ipynb)
 
 ### **7.	Python OOP**
 
