@@ -99,7 +99,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Python Exception Handling using try, except and finally statement](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Exception_Handling_using_try%2C_except_and_finally.ipynb)
    
-   - [Python Custom Exceptions]
+   - [Python Custom Exceptions](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Custom_Exceptions.ipynb)
 
 ### **7.	Python OOP**
 
