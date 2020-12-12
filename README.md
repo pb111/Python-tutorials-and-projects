@@ -94,6 +94,12 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    - [Python File I/O Operations](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_File_I_O_Operations.ipynb)
    
    - [Python Directory and Files Management](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Directory_and_Files_Management.ipynb)
+   
+   - [Python Errors and Built-in Exceptions](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Errors_and_Built_in_Exceptions.ipynb)
+   
+   - [Python Exception Handling using try, except and finally statement]
+   
+   - [Python Custom Exceptions]
 
 ### **7.	Python OOP**
 
