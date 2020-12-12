@@ -107,7 +107,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Python Classes and Objects](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Classes_and_Objects.ipynb)
    
-   - [Python Objects and Classes]
+   - [Python Classes and Objects(with examples)](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Classes_and_Objects_(with_examples).ipynb)
    
    - [Python Inheritance](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Inheritance.ipynb)
    
