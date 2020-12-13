@@ -118,6 +118,8 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    - [Polymorphism](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Polymorphism.ipynb)
    
    - [Operator Overloading](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Operator_Overloading.ipynb)
+   
+   - [Deleting Attributes and Objects](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Deleting_Attributes_and_Objects.ipynb)
 
 ### **8.	Python Advanced Topics**
 
