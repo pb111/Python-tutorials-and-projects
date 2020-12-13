@@ -35,7 +35,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Python Conditions](https://github.com/pb111/Python/blob/master/Python_Conditions.ipynb)
 
-### **2.	Python Data Structures**
+### **2.	Python Datatypes**
 
    - [Python Lists](https://github.com/pb111/Python/blob/master/Python_Lists.ipynb)
    
