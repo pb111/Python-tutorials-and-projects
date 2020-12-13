@@ -121,5 +121,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
 
 ### **8.	Python Advanced Topics**
 
+   - [Constructors in Python](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Constructors_in_Python.ipynb)
+
 ### **9.	Python Date and Time**
 
