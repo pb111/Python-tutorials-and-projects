@@ -127,7 +127,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Python Iterators`(__iter__and__next__)`](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Iterators(__iter__and__next__).ipynb)
    
-   - [Python Yield, Generators and Generator Expressions]
+   - [Python Yield, Generators and Generator Expressions](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Yield%2C_Generators_and_Generator_Expressions.ipynb)
    
    - [Python Closures]
    
