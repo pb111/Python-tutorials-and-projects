@@ -125,7 +125,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
 
    - [Constructors in Python](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Constructors_in_Python.ipynb)
    
-   - [Python Iterators`(__iter__and__next__)`]
+   - [Python Iterators`(__iter__and__next__)`](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Iterators(__iter__and__next__).ipynb)
    
    - [Python Yield, Generators and Generator Expressions]
    
