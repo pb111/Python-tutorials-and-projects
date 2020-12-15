@@ -129,7 +129,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Python Yield, Generators and Generator Expressions](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Yield%2C_Generators_and_Generator_Expressions.ipynb)
    
-   - [Python Closures]
+   - [Python Closures](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Closures.ipynb)
    
    - [Python Decorators]
    
