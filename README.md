@@ -133,7 +133,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
    
    - [Python Decorators](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Decorators.ipynb)
    
-   - [Python Property]
+   - [Python Property](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Property.ipynb)
 
 ### **9.	Python Date and Time**
 
