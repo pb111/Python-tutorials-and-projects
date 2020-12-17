@@ -37,7 +37,7 @@ The Official Python Tutorial can be found [here](https://docs.python.org/3/tutor
 
 ### **2.	Python Datatypes**
 
-   - [Python Numbers]
+   - [Python Numbers, Type Conversion and Mathematics](https://github.com/pb111/Python-tutorials-and-projects/blob/master/Python_Numbers%2C_Type_Conversion_and_Mathematics.ipynb)
 
    - [Python Lists](https://github.com/pb111/Python/blob/master/Python_Lists.ipynb)
    
